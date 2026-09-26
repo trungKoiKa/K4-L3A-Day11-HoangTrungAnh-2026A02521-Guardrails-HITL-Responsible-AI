@@ -2,7 +2,7 @@
 
 > File này **tự sinh** bởi `scripts/grade.py`. **Không** viết / sửa tay.
 
-- Generated (UTC): `2026-09-26T08:43:33.445045+00:00`
+- Generated (UTC): `2026-09-26T08:53:59.749832+00:00`
 - Framework: `openai-sdk-openrouter`
 - Technical failure: **False**
 
@@ -40,13 +40,7 @@
 
 ```text
 ..........                                                               [100%]
-============================== warnings summary ===============================
-.venv\Lib\site-packages\_pytest\cacheprovider.py:469
-  D:\Lab_VinUni\LAB\Lab11\K4-L3A-Day11-Guardrails-HITL-Responsible-AI\.venv\Lib\site-packages\_pytest\cacheprovider.py:469: PytestCacheWarning: could not create cache path D:\Lab_VinUni\LAB\Lab11\K4-L3A-Day11-Guardrails-HITL-Responsible-AI\.pytest_cache\v\cache\nodeids: [WinError 5] Access is denied: 'D:\\Lab_VinUni\\LAB\\Lab11\\K4-L3A-Day11-Guardrails-HITL-Responsible-AI\\.pytest_cache\\v\\cache'
-    config.cache.set("cache/nodeids", sorted(self.cached_nodeids))
-
--- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
-10 passed, 1 warning in 1.22s
+10 passed in 1.22s
 ```
 
 ## Notes
